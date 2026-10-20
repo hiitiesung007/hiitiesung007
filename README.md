@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there, I'm Hii Tie Sung! 👋
 
-<!--
-**hiitiesung007/hiitiesung007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <video src="animation.gif.mp4" width="400" autoplay loop muted playsinline></video>
+</p>
 
-Here are some ideas to get you started:
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&width=450&lines=Aspiring+Data+Engineer;Passionate+Problem+Solver;Tech+Explorer+%26+Lifelong+Learner" alt="Typing SVG" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 About Me
+
